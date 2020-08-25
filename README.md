@@ -1,5 +1,5 @@
 # PublicDnsList
-This repository contains a curated list of fast &amp; safe public DNS availabe on ipv4 and ipv6 networks.
+This repository contains a curated list of fast &amp; safe public DNS servers available on ipv4 and ipv6 networks.
 
 # What are DNS servers?
 DNS stands for "Domain Name System". It's a naming system for computers. The server component of the "Domain Name System" is named a "DNS server". DNS servers are an important part of the internet infrastructure because they translate human-friendly domain name into IP addresses. That's what allow you to access websites, cloud and other web services.
