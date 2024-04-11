@@ -4,7 +4,9 @@ This repository contains a curated list of fast &amp; safe public DNS servers av
 # What are DNS servers?
 DNS stands for "Domain Name System". It's a naming system for computers. That's what allow you to access websites, cloud and other web services.
 
-The server component of the "Domain Name System" is named a "DNS server". DNS servers are an important part of the internet infrastructure because they translate human-friendly domain name into IP addresses. 
+The server component of the "Domain Name System" is named a "DNS server".
+
+DNS servers are an important part of the internet infrastructure because they translate human-friendly domain name into IP addresses. 
 
 # Does my computer use DNS servers?
 Yes. Each time you connect to internet, request a webpage, click on a link, the browser looks for an IP address in the DNS system by contacting a DNS server.
